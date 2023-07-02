@@ -2,10 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>bcrypt-authentication</title>
 </head>
 <body>
-  <h1>bcrypt-authentication</h1>
+  <h1>Bcrypt-authentication</h1>
   <p>
     This repository contains a web application with user authentication functionality implemented using the bcrypt library. The backend is built with Node.js and Express.js, and the frontend uses HTML, CSS, and JavaScript. The file system is used as a database to store user details.
   </p>
