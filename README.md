@@ -38,14 +38,11 @@
   <ol>
     <li>Clone the repository:</li>
     <pre>git clone &lt;repository-url&gt;</pre>
-php
-Copy code
+
 <li>Install dependencies:</li>
 <pre>cd bcrypt-authentication
 npm install</pre>
 
-php
-Copy code
 <li>Start the server:</li>
 <pre>npm start</pre>
   </ol>
